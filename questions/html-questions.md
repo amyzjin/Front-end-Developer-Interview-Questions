@@ -1,6 +1,7 @@
 # HTML Questions:
 
 * What does a `doctype` do?
+  - The `doctype` declaration is an instruction to the web browser about what version of the markup langauge the page is written in. 
 * How do you serve a page with content in multiple languages?
 * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
